@@ -1,0 +1,7 @@
+# Vim
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
